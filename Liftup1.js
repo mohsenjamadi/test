@@ -1,6 +1,7 @@
 import React from "react";
 import Liftup2 from "./Liftup2";
 import * as myfunc from './LiftupConvert'
+//////////////////////////
 
 class Liftup1 extends React.Component {
     constructor(props) {
